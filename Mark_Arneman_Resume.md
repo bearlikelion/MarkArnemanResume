@@ -15,7 +15,7 @@ Marlton, NJ | markarneman@gmail.com | [linkedin.com/in/markarneman](https://link
 ### Independent Game Developer
 *BearlikeLion | January 2024 – Present*
 
-- Led full product lifecycle for 2 commercial Steam games, achieving 100K+ players and generating 1,600+ sales
+- Led full product lifecycle for 2 commercial Steam games, achieving 100K+ players and generating 2,000+ sales
 - Extended Godot C++ engine with custom security features and built Laravel web application for real-time in-game integration
 - Engineered proprietary anti-cheat system in GDScript and Supabase analytics pipeline tracking 50,000+ player runs for gameplay balancing
 
