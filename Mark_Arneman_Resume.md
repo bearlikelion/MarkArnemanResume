@@ -8,7 +8,7 @@ Marlton, NJ | markarneman@gmail.com | [linkedin.com/in/markarneman](https://link
 **Frameworks:** Laravel, Vue.js, React, Godot Engine, Unity Engine
 **Databases:** PostgreSQL, MySQL, MariaDB
 **Tools:** Docker, Git, Linux, Supabase, Prometheus, Grafana, WebSockets, Laravel Forge, Retool
-**Cloud:** AWS, GCP, Azure, REST APIs, Microservices | **Virtualization:** Hyper-V, OpenStack, ESXi
+**Cloud:** AWS, GCP, Azure, REST APIs, Microservices **Virtualization:** Hyper-V, OpenStack, ESXi
 
 ## EXPERIENCE
 
