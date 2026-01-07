@@ -17,7 +17,7 @@ Marlton, NJ | markarneman@gmail.com | [linkedin.com/in/markarneman](https://link
 
 - Led full product lifecycle for 2 commercial Steam games, achieving 100K+ players and generating 1,600+ sales
 - Extended Godot C++ engine with custom security features and built Laravel web application for real-time in-game integration
-- Engineered proprietary anti-cheat system in GDScript and Supabase analytics pipeline tracking 5,000+ player runs for gameplay balancing
+- Engineered proprietary anti-cheat system in GDScript and Supabase analytics pipeline tracking 50,000+ player runs for gameplay balancing
 
 ### Senior Software Engineer
 *Lumion (formerly Mia Share) | April 2025 – August 2025*
